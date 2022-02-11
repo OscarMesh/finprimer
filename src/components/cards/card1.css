@@ -1,0 +1,59 @@
+.finprimer__card1 {
+    display:flex;
+    width: 100%;
+}
+
+.finprimer__card1-container {
+    position: relative;
+    background: #201047;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 260px;
+    height: 340px;
+    border-radius: 8px;
+}
+
+
+.finprimer__card1-container_design {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.finprimer__card1-container_details h2 {
+    color: var(--color-bg);
+    font-family: var(--tetiary-font);
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.finprimer__card1-container_details p {
+    color: #FBC99D;
+    font-family: var(--primary-font);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+.finprimer__card1-container_learnmore {
+    margin-top: 75px;
+    margin-left: 142px;
+    
+}
+.finprimer__card1-container_learnmore a{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+}
+.finprimer__card1-container_learnmore p {
+    color: var(--color-bg);
+    font-family: var(--primary-font);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 32px;
+}
