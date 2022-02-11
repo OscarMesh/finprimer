@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/finprimer/static/css/main.baaf0df0.css",
+    "main.js": "/finprimer/static/js/main.54b6a652.js",
+    "static/media/head.png": "/finprimer/static/media/head.9399eb86766ee766800d.png",
+    "static/media/receipts.svg": "/finprimer/static/media/receipts.c29f1b59719f6dcdeaa46be096312020.svg",
+    "static/media/plants.png": "/finprimer/static/media/plants.8e4b157e9cba2483293e.png",
+    "static/media/Ellipse 6.png": "/finprimer/static/media/Ellipse 6.d5c4e94f223f4b7369e9.png",
+    "static/media/Group 3082.svg": "/finprimer/static/media/Group 3082.f2a442f983c41789fe659e3d37a1cf86.svg",
+    "static/media/right-arrow 1.svg": "/finprimer/static/media/right-arrow 1.06e2a699c85389af158ee6e33b8689eb.svg",
+    "index.html": "/finprimer/index.html",
+    "static/media/logo.svg": "/finprimer/static/media/logo.fb20d211e5a53fba8ab72908bfe28662.svg",
+    "main.baaf0df0.css.map": "/finprimer/static/css/main.baaf0df0.css.map",
+    "main.54b6a652.js.map": "/finprimer/static/js/main.54b6a652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baaf0df0.css",
+    "static/js/main.54b6a652.js"
+  ]
+}
